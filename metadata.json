@@ -1,0 +1,6 @@
+{
+  "name": "Tanjim Task",
+  "description": "A personal Success & Fail Tracker with modern calendars, daily status tracking, and monthly analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
